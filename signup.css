@@ -1,0 +1,81 @@
+img{
+    height: 100px;
+    margin-bottom: 70px;
+   
+    
+}
+.firstname{
+          border-radius: 6px;
+          border-style: solid;
+          border-width: 1px;
+          padding-left: 2px;
+          padding-top: 8px;
+          padding-bottom: 8px;
+          width: 120px;
+          text-align: center;
+          margin-bottom: 10px;
+          margin-top: 10px;
+          
+}
+.lastname{
+          border-radius: 6px;
+          border-style: solid;
+          border-width: 1px;
+          padding-left: 2px;
+          padding-top: 8px;
+          padding-bottom: 8px;
+          width: 120px;
+          text-align: center;
+}
+.email{
+    display: block;
+    border-radius: 6px;
+          border-style: solid;
+          border-width: 1px;
+          padding-left: 2px;
+          padding-top: 8px;
+          padding-bottom: 8px;
+          width: 250px;
+          text-align: center;
+          
+          
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    border-style: solid;
+          border-width: 1px;
+          padding-left: 2px;
+          padding-top: 8px;
+          padding-bottom: 8px;
+          width: 260px;
+          text-align: center;
+
+    
+}
+.signup:hover{
+    opacity: 0.5;
+
+}
+.Welcome{
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: italic;
+     font-weight: 112;
+     font-size: medium;
+     padding-left: 50px;
+     
+    
+   
+
+}
+.maindiv{
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 200px;
+   display: inline-block;
+}
+.body{
+    background-image: url('nike.png');
+}
